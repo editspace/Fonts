@@ -1,2 +1,6 @@
 'Fira Code'
 'Monaspace Krypton'
+'Monaspace Neon'
+'Monaspace Radon'
+'Monaspace Argon'
+'Monaspace Xenon'
